@@ -49,8 +49,8 @@ from email.mime.text import MIMEText
 
 # me == my email address
 # you == recipient's email address
-me = "paul@sijben.net"
-you = "we@home.sijben.net"
+me = "paul@XXXXXXXXXXXXXXX"
+you = "we@XXXXXXXXXXXXXXXX"
 
 # Create message container - the correct MIME type is multipart/alternative.
 msg = MIMEMultipart('alternative')
